@@ -11,3 +11,11 @@
 1. Ensure the `Assignment 1 - Test cases.xlsx` file is closed.
 2. Run the automation script in the terminal:
    `python test_automation.py`s
+
+## Here is the terminal output proving the 100% fail rate for the negative test cases:
+
+![Terminal Output Part 1](IT23734470_Screenshot_1.png)
+
+![Terminal Output Part 2](IT23734470_Screenshot_2.png)
+
+![Terminal Output Part 2](IT23734470_Screenshot_3.png)
